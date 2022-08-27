@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "wonnao",
+            "password": "Won@123",
+            "Profile": {
+                "description": "iam wonnao",
+                "D.O.B": "11-01-2003",
+                "Gender": "female",
+                "Hobbies": "playing"
+            }
+        }
+    ]
+}
